@@ -1,3 +1,4 @@
 name: ratoeira docs
 theme: jekyll-theme-minimal
 markdown: kramdown
+permalink: /textos/:year/:month/:day/:title
